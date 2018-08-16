@@ -1,0 +1,5 @@
+Trip Itinerary
+--------------
+Destination: Berlin
+Length of stay: 5
+Cost: $100.80

@@ -1,0 +1,7 @@
+intro=("Hi I am Dylan Barrett")
+college=("I am a junior studying Civil Engineering, following closely to my brother who studied Mechanical and Aerospace Engineering")
+story1=("I was born in Dallas, Texas then after 8 years moved to Missouri.")
+story=("I go to Mizzou during the school year and live at the lake of the ozarks during the summer.")
+hobby=("I love to hunt, fish, shoot guns, and be outside with my dog Lucy.")
+hobby1=("I also like to watch baseball and football college or NFL.")
+print(intro+college+story1+story+hobby+hobby1)
